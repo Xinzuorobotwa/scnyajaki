@@ -21,8 +21,7 @@ global.botname = 'Xinzuo 𝗕𝗢𝗧'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6281391337455'
-global.footer = 'X I N Z U O
-𝗕 𝗢 𝗧'
+global.footer = 'X I N Z U O 𝗕𝗢𝗧'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'D e n z z' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
