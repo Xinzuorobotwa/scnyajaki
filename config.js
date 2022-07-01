@@ -3,12 +3,7 @@ const chalk = require('chalk')
 
 global.thum = fs.readFileSync("./media/zaki.jpg")
 
-global.autoReadAll = true 
-
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
-//Silahkan sesuaikan sendiri ya
-
+global.autoReadAll = true
 // Ganti Sewajarnya
 global.owner = ['6281391337455']
 global.pengguna = 'Denzz'
@@ -17,40 +12,37 @@ global.author = 'Denzz'
 global.pemilik = ['6281391337455'] 
 global.ownernomer = '6281391337455'
 global.ownername = 'Denzz'
-global.botname = 'Xinzuo 𝗕𝗢𝗧'
-global.tengah = "									"
+global.botname = 'Xinzuo - MD'
 global.Prefix = 'Multi Prefix'
 global.meki = '6281391337455'
-global.footer = 'X I N Z U O 𝗕𝗢𝗧'
-//Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'D e n z z' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.footer = 'Xinzuo  - 𝘔 𝘋'
+global.footer1 = 'Ga usah spam dek.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://www.instagram.com/xinzuo_bot'
-global.gc = 'https://chat.whatsapp.com/I1s8ZSIFB5v1d5Vzjp5lqJ' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w'
+global.ig = 'https://instagram.com/xinzuo_bot'
+global.gc = 'https://chat.whatsapp.com/I1s8ZSIFB5v1d5Vzjp5lqJ'
 global.dana = '00000'
 global.gopay = '0000'
 global.wame = 'wa.me/6281391337455'
 global.email = 'mahuangxinzuo@gmail.com'
-global.region = 'Indonesia'
+global.region = 'Thailand'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: Denzz"\n"Bot Number: 6281228088732"\n"Bot Name: Xinzuo 𝗕𝗢𝗧"\n"Instagram: xinzuo_bot"\n}' 
+global.packname = '"{\nAuthor: Denzz"\n"Bot Number: 6281391337455"\n"Bot Name: Xinzuo - MD"\n"Instagram: @xinzuo_bot"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Done Your Request',
+    success: 'Hello',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Emang Lu Owner Bot?',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    error: 'Fitur sedang error!',
+    wait: 'Tunggu Bos...',
+    error: 'wah ada error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
     example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
@@ -59,8 +51,8 @@ global.mess = {
     
 }
     global.limitawal = {
-    premium: "Unlimited",
-    free: 30,
+    premium: "10",
+    free: 2,
     monayawal: 1000
 }
    global.rpg = {
